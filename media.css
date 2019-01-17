@@ -1,0 +1,349 @@
+﻿
+
+@media  screen and (max-width: 1200px){
+	#menu-item3{
+	display: inline-block;
+	margin-right: 130px;
+	
+}
+#menu-item4{
+	display: inline-block;
+	margin-right: 130px;
+	text-transform: uppercase;
+}
+
+        /*   hide menu*/
+
+      /*  ekran 9*/
+
+ #leftblock1{
+	
+	margin-right: 80px;
+
+}
+#centerblock{
+	width: 285px;
+}
+#rightblock{
+	width: 285px;
+	height: 500px;
+	background-color: #EBEBED;
+}
+#footer{
+	margin:0 auto;
+	margin-top:170px;
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+
+
+}
+@media  screen and (max-width: 1050px){
+
+
+.header {
+   display: flex;
+   justify-content: center;
+  }
+#button-menu{ 
+    position:relative;
+	width: 30px;
+	height: 30px;
+	background-image: url(images/menu.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+  align-self: center;
+  top:1px;
+ left:15px;
+
+
+    
+}
+
+	#menu-item1{
+	display: none;
+
+}
+
+#menu-item2{
+	display: none;
+}
+#menu-item3{
+	display: none;
+}
+#menu-item4{
+	
+	margin-right: 200px;
+	text-transform: uppercase;
+	margin:0 auto;
+}
+#menu-item5{
+	display: none;
+}
+#menu-item6{
+	display: none;
+}
+
+.header>.button{
+	display: none;
+}
+
+
+#ekran3-container{
+	max-width: 1200px;
+	margin:0 auto;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	flex-wrap:wrap;
+}
+#text1{
+	width: 720px;
+		
+}
+#text2{
+	width: 720px;
+  }
+
+
+   /*ekran4 phone slide left*/
+   #ekran4{
+        flex-wrap: wrap-reverse;
+}
+#iphone-feature{
+	width: 720px;
+height: 610px;
+margin:0 auto;
+
+}
+#right-text-block{
+	margin:50px 50px 0px;
+	/*border:1px solid red;*/
+	width: 720px;
+	margin:0 auto;
+}
+
+       /*  ekran 5*/
+
+#ekran5{
+		/*border:1px solid green;*/
+      flex-wrap: wrap;
+ } 
+#left-block5{
+		max-width: 720px;
+		margin:0 auto;
+		
+}
+#head-text5{
+	max-width: 720px;
+}
+#map5{
+
+	max-width:720px ;
+	background-size: contain;
+    margin:0 auto;
+  }
+
+           /* ekran6*/
+
+#ekran6{
+	height: 1080px;   
+}
+
+#image-row{ 
+		left:-535px;
+	max-width:1800px; 
+}
+#image1{
+  width: 240px;
+  height: 685px;
+}
+#image2{
+	width: 240px;
+	height: 685px;
+}
+#main-img{
+     width: 300px;
+  }
+#image3{
+	width: 240px;
+	height: 685px;
+}
+#image4{
+  	width: 240px;
+  	height: 685px;
+}
+
+ /* ekran9*/
+
+
+    #ekran9{
+
+	flex-wrap:wrap;
+	justify-content: center;
+
+}
+#leftblock{
+	max-width: 680px;
+	margin:0 auto;    
+}
+
+#centerblock{
+	width: 340px;
+	/*margin-left:-65px;*/
+}
+#rightblock{
+	width: 340px;
+}
+
+#footer{
+	max-width: 750px;
+	margin-top:170px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	
+}
+
+#left-section{
+	max-width:700px;
+	margin:0 30px;
+	}
+
+#first-column{
+	width: 100%;
+	
+}
+#second-column{
+	width: 100%;
+	
+}
+#third-column{
+	width: 100%;
+	
+}
+
+
+}
+@media  screen and (max-width: 770px){
+
+
+
+
+#ekran5{
+	
+    margin-bottom:0px;
+    
+    
+} 
+	
+#map5{
+	height:   250px;  
+}
+
+	#ekran6{
+	height: 900px;   
+}
+
+
+	#image-row{ 
+		left:-372.5px;
+	     
+}
+#image1{
+  width: 180px;
+  height: 740px;
+}
+#image2{
+	width: 180px;
+	height: 740px;
+}
+#main-img{
+     width: 220px;
+  }
+#image3{
+	width: 180px;
+	height: 740px;
+}
+#image4{
+  	width: 180px;
+  	height: 740px;
+}
+   
+
+}
+
+@media  screen and (max-width: 580px){
+
+	#header-iphone{
+	width: 280px;  
+	height: 450px;
+	}
+	#button-invite{
+	
+	margin:0 auto;
+	right: 0px;
+}
+
+#iphone-feature{
+height: 490px;
+}
+
+
+
+#wrapper-2blocks{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	
+}
+#centerblock{
+	margin-left:0px;
+}
+
+ #subscribe{
+	position:relative;
+	width: 140px;
+	height: 40px;
+	border-radius: 25px;
+	background-color:     #6FC754;   
+	margin:0 auto;
+	right: 0px;
+
+}
+#in{
+	margin:0 auto;
+	width: 280px;
+}
+
+
+
+
+
+ #in>input{
+ 	outline:none;
+	border-radius: 25px;
+width: 245px;
+height: 45px;
+border:1px solid #D4D4D5;
+margin:0 auto;
+}
+#column-wrapper{
+flex-wrap: wrap;
+}
+
+#first-column{
+	width: 280px;
+}
+#second-column{
+	width: 280px;
+}
+#third-column{
+	width: 280px;
+}
+
+}
+
+
